@@ -1,1 +1,1 @@
-# SeleniumAssignments
+# WeeklyAssignments
